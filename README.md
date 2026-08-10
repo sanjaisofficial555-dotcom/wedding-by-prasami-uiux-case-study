@@ -1,6 +1,6 @@
 # 💍 Wedding By Prasami – Cinematic Wedding Photography Website UI/UX Design
 
-![Wedding By Prasami UI/UX](assets/presentation/project-cover.png)
+![Wedding By Prasami UI/UX](Preview.png)
 
 ## 📌 Project Overview
 
