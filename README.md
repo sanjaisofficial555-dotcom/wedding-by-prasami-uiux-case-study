@@ -75,7 +75,7 @@ A storytelling section that presents real wedding experiences and emotional mome
 A dedicated section explaining the Wedding By Prasami photography and filmmaking experience, from consultation to final delivery.
 
 ### 📦 Packages
-![Desktop Packages](assets/screenshots/desktop-packages.png)
+![Desktop Packages](Desktop-assets/Packagespage.png)
 
 A clear presentation of wedding photography and filmmaking packages, services, and package details.
 
