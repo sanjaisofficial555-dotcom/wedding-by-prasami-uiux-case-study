@@ -171,7 +171,7 @@ The mobile experience is designed to provide the same cinematic storytelling exp
 
 #### 📅 Contact
 
-![Mobile Contact](assets/screenshots/mobile-contact.png)
+![Mobile Contact](Mobile-assets/Contact-section.png)
 
 ---
 
