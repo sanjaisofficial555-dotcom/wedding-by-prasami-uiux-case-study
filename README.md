@@ -80,7 +80,7 @@ A dedicated section explaining the Wedding By Prasami photography and filmmaking
 A clear presentation of wedding photography and filmmaking packages, services, and package details.
 
 ### 📅 Contact & Booking
-![Desktop Contact](assets/screenshots/desktop-contact.png)
+![Desktop Contact](Desktop-assets/Contactpage.png)
 
 A simple and user-friendly booking experience that allows potential customers to submit enquiries and provide their wedding details.
 
