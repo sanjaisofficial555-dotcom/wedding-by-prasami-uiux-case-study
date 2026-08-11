@@ -55,7 +55,7 @@ The goal of this project was to create a premium digital experience for Wedding 
 - Clear call-to-action buttons
 
 ### 🎥 Films
-![Desktop Films](assets/screenshots/desktop-films.png)
+![Desktop Films](Desktop-assets/Filmspage.png)
 
 A dedicated section for showcasing cinematic wedding films and memorable wedding moments.
 
