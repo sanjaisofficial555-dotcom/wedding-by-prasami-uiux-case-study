@@ -151,7 +151,7 @@ The mobile experience is designed to provide the same cinematic storytelling exp
 
 #### 🎥 Films
 
-![Mobile Films](assets/screenshots/mobile-films.png)
+![Mobile Films](Mobile-assets/Flim-section.png)
 
 #### 📸 Gallery
 
