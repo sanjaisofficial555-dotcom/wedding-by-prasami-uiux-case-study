@@ -147,7 +147,7 @@ The mobile experience is designed to provide the same cinematic storytelling exp
 
 #### 🏠 Home Page
 
-![Mobile Home](assets/screenshots/mobile-home.png)
+![Mobile Home](Mobile-assets/Home-section.png)
 
 #### 🎥 Films
 
