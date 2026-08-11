@@ -44,7 +44,6 @@ The goal of this project was to create a premium digital experience for Wedding 
 ## 📱 Key Features
 
 ### 🎬 Home Page
-![Desktop Home](Desktop-assets/Homepage.png)
 
 - Cinematic hero section
 - Brand introduction
@@ -55,32 +54,26 @@ The goal of this project was to create a premium digital experience for Wedding 
 - Clear call-to-action buttons
 
 ### 🎥 Films
-![Desktop Films](Desktop-assets/Filmspage.png)
 
 A dedicated section for showcasing cinematic wedding films and memorable wedding moments.
 
 ### 📸 Gallery
-![Desktop Gallery](Desktop-assets/Gallerypage.png)
 
 A visually rich photography gallery designed to showcase wedding moments, couples, ceremonies, and celebrations.
 
 ### ❤️ Stories
-![Desktop Stories](Desktop-assets/Storypage.png)
 
 A storytelling section that presents real wedding experiences and emotional moments through photography and written content.
 
 ### ✨ Experience
-![Desktop Experience](Desktop-assets/Experiencepage.png)
 
 A dedicated section explaining the Wedding By Prasami photography and filmmaking experience, from consultation to final delivery.
 
 ### 📦 Packages
-![Desktop Packages](Desktop-assets/Packagespage.png)
 
 A clear presentation of wedding photography and filmmaking packages, services, and package details.
 
 ### 📅 Contact & Booking
-![Desktop Contact](Desktop-assets/Contactpage.png)
 
 A simple and user-friendly booking experience that allows potential customers to submit enquiries and provide their wedding details.
 
@@ -106,31 +99,31 @@ The desktop experience is designed with a cinematic and immersive layout that ma
 
 #### 🏠 Home Page
 
-![Desktop Home](assets/screenshots/desktop-home.png)
+![Desktop Home](Desktop-assets/Homepage.png)
 
 #### 🎥 Films
 
-![Desktop Films](assets/screenshots/desktop-films.png)
+![Desktop Films](Desktop-assets/Filmspage.png)
 
 #### 📸 Gallery
 
-![Desktop Gallery](assets/screenshots/desktop-gallery.png)
+![Desktop Gallery](Desktop-assets/Gallerypage.png)
 
 #### ❤️ Stories
 
-![Desktop Stories](assets/screenshots/desktop-stories.png)
+![Desktop Stories](Desktop-assets/Storypage.png)
 
 #### ✨ Experience
 
-![Desktop Experience](assets/screenshots/desktop-experience.png)
+![Desktop Experience](Desktop-assets/Experiencepage.png)
 
 #### 📦 Packages
 
-![Desktop Packages](assets/screenshots/desktop-packages.png)
+![Desktop Packages](Desktop-assets/Packagespage.png)
 
 #### 📅 Contact
 
-![Desktop Contact](assets/screenshots/desktop-contact.png)
+![Desktop Contact](Desktop-assets/Contactpage.png)
 
 ---
 
