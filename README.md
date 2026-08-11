@@ -155,7 +155,7 @@ The mobile experience is designed to provide the same cinematic storytelling exp
 
 #### 📸 Gallery
 
-![Mobile Gallery](assets/screenshots/mobile-gallery.png)
+![Mobile Gallery](Mobile-assets/Gallery-section.png)
 
 #### ❤️ Stories
 
