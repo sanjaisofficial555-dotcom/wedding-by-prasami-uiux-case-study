@@ -210,7 +210,7 @@ The responsive design maintains consistent branding, typography, visual hierarch
 
 🚀 **[View Interactive Prototype](YOUR_FIGMA_PROTOTYPE_LINK)**
 
-🎨 **[View Figma Design](YOUR_FIGMA_DESIGN_LINK)**
+🎨 **[View Figma Design](https://www.figma.com/design/QJ4ioZSLP0nE1yWHx4cgN6/Wedding-By-Prasami?node-id=0-1&t=0A9bAKkgPrlMIcNr-1)**
 
 ## 💡 Project Outcome
 
