@@ -167,7 +167,7 @@ The mobile experience is designed to provide the same cinematic storytelling exp
 
 #### 📦 Packages
 
-![Mobile Packages](assets/screenshots/mobile-packages.png)
+![Mobile Packages](Mobile-assets/Packages-section.png)
 
 #### 📅 Contact
 
