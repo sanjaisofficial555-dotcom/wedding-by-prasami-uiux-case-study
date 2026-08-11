@@ -60,7 +60,7 @@ The goal of this project was to create a premium digital experience for Wedding 
 A dedicated section for showcasing cinematic wedding films and memorable wedding moments.
 
 ### 📸 Gallery
-![Desktop Gallery](assets/screenshots/desktop-gallery.png)
+![Desktop Gallery](Desktop-assets/Gallerypage.png)
 
 A visually rich photography gallery designed to showcase wedding moments, couples, ceremonies, and celebrations.
 
