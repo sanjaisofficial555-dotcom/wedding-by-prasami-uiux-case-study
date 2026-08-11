@@ -44,7 +44,7 @@ The goal of this project was to create a premium digital experience for Wedding 
 ## 📱 Key Features
 
 ### 🎬 Home Page
-![Desktop Home](assets/screenshots/desktop-home.png)
+![Desktop Home](DesktopAssets/Homepage.png)
 
 - Cinematic hero section
 - Brand introduction
