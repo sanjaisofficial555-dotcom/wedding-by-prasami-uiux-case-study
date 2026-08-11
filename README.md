@@ -159,7 +159,7 @@ The mobile experience is designed to provide the same cinematic storytelling exp
 
 #### ❤️ Stories
 
-![Mobile Stories](assets/screenshots/mobile-stories.png)
+![Mobile Stories](Mobile-assets/Story-section.png)
 
 #### ✨ Experience
 
