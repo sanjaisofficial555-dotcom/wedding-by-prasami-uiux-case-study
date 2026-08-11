@@ -70,7 +70,7 @@ A visually rich photography gallery designed to showcase wedding moments, couple
 A storytelling section that presents real wedding experiences and emotional moments through photography and written content.
 
 ### ✨ Experience
-![Desktop Experience](assets/screenshots/desktop-experience.png)
+![Desktop Experience](Desktop-assets/Experiencepage.png)
 
 A dedicated section explaining the Wedding By Prasami photography and filmmaking experience, from consultation to final delivery.
 
