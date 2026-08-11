@@ -44,6 +44,7 @@ The goal of this project was to create a premium digital experience for Wedding 
 ## 📱 Key Features
 
 ### 🎬 Home Page
+![Desktop Home](assets/screenshots/desktop-home.png)
 
 - Cinematic hero section
 - Brand introduction
@@ -54,26 +55,32 @@ The goal of this project was to create a premium digital experience for Wedding 
 - Clear call-to-action buttons
 
 ### 🎥 Films
+![Desktop Films](assets/screenshots/desktop-films.png)
 
 A dedicated section for showcasing cinematic wedding films and memorable wedding moments.
 
 ### 📸 Gallery
+![Desktop Gallery](assets/screenshots/desktop-gallery.png)
 
 A visually rich photography gallery designed to showcase wedding moments, couples, ceremonies, and celebrations.
 
 ### ❤️ Stories
+![Desktop Stories](assets/screenshots/desktop-stories.png)
 
 A storytelling section that presents real wedding experiences and emotional moments through photography and written content.
 
 ### ✨ Experience
+![Desktop Experience](assets/screenshots/desktop-experience.png)
 
 A dedicated section explaining the Wedding By Prasami photography and filmmaking experience, from consultation to final delivery.
 
 ### 📦 Packages
+![Desktop Packages](assets/screenshots/desktop-packages.png)
 
 A clear presentation of wedding photography and filmmaking packages, services, and package details.
 
 ### 📅 Contact & Booking
+![Desktop Contact](assets/screenshots/desktop-contact.png)
 
 A simple and user-friendly booking experience that allows potential customers to submit enquiries and provide their wedding details.
 
