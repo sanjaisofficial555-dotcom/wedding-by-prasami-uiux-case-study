@@ -65,7 +65,7 @@ A dedicated section for showcasing cinematic wedding films and memorable wedding
 A visually rich photography gallery designed to showcase wedding moments, couples, ceremonies, and celebrations.
 
 ### ❤️ Stories
-![Desktop Stories](assets/screenshots/desktop-stories.png)
+![Desktop Stories](Desktop-assets/Storypage.png)
 
 A storytelling section that presents real wedding experiences and emotional moments through photography and written content.
 
